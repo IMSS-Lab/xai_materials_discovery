@@ -1,0 +1,18 @@
+XAI Benchmark Results
+=====================
+
+integrated_gradients:
+  fidelity: 0.002746796701103449
+  sparsity: 0.008865248226950355
+  stability: 0.95
+
+gnn_explainer:
+  fidelity: 0.1666666716337204
+  sparsity: 0.1666666716337204
+  stability: 0.95
+
+counterfactual:
+  fidelity: 0.00942850112915039
+  sparsity: 2.0
+  stability: 0.95
+
